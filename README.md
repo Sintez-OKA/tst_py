@@ -1,4 +1,4 @@
-# Тестовое задание — Python/Django разработчик (frePPLe)
+# Python/Django разработчик (frePPLe)
 
 ## Вопросы по Python
 
