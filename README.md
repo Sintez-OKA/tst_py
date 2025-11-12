@@ -1,4 +1,4 @@
-# Python/Django разработчик (frePPLe)
+# Python/Django разработчик 
 
 ## Вопросы по Python
 
